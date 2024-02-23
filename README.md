@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Sahu</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://as2.ftcdn.net/v2/jpg/05/90/45/35/1000_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 - 🌱 I’m currently learning **ReactJs, Mongo**
 
